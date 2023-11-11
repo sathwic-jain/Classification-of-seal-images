@@ -31,7 +31,3 @@ The dataset comprises two directories: `binary` for binary classification and `m
 Included in the repository is a report detailing the steps taken, models used, their performance, and critical insights. It covers the detailed dedscription of approach, results, and discussion based on the experimental findings.
 
 - **Report File**: `CS5014-P2_Report.pdf.pdf`
-
----
-
-Feel free to replace the placeholders (`yourusername/your-repo.git`, `seal_pup_classification.py`, etc.) with your actual GitHub repository link, file names, and program execution commands as needed for accuracy. This README provides a basic structure that you can further expand upon with more detailed information about the project.
